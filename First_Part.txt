@@ -1,0 +1,11 @@
+Philadelphia, PA is The state where I am going to fill the project and build a Solar system
+Standard System 
+Latitude:	39.97° N	Longitude:	75.18° W	
+Average High Teamp=29˚C
+Lowest Temp=11°C	
+System Size: 6kW
+Azimuth Angle: 190 degree
+System Tilt: 39.81º
+The system Receive its high Solar radiation when the tilt angle is directed toward the 
+Latitude Angle According to the Data Sheet
+Full sun Hours: 4.9*365=1788.5

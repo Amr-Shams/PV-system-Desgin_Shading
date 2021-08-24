@@ -1,0 +1,49 @@
+MODEL TYPES AND RATINGS AT STANDARD TEST CONDITIONS (1000W/m2 AM 1.5, 25°C)
+Nominal Power3 (-0/+5%) PMAX (W) 420
+FS-6420
+FS-6420A
+Link: https://www.firstsolar.com/en-Emea/Modules/Our-Technology
+Efficiency (%) % 17.0
+Voltage at PMAX VMAX (V) 180.4
+Current at PMAX IMAX (A) 2.33
+Open Circuit Voltage VOC (V) 218.5
+Short Circuit Current ISC (A) 2.54
+Maximum System Voltage VSYS (V) 15005
+Limiting Reverse Current IR (A) 5.0
+Maximum Series Fuse ICF (A) 5.0
+System Size = 6 kW
+Number of Modeuls= 6*10^3 /420=15 modeul
+Temperature Coefficient of VOC TK (VOC) -0.28%/°C
+Average High Teamp=29˚C
+Lowest Temp=11°C
+Namplate System Power=15*420=6300 watt
+Critical temperature-dependent voltages.
+Voc + Vmp at Low Temp
+Voc=Voc+(11-25)*-.28*Voc=227.1 V
+Vmp =187.5
+Voc + Vmp at Average High Temp
+Voc=197.7 V
+Vmp=163.23 V
+
+
+Inverter Fronuis
+Link: https://www.fronius.com/en-us/usa/photovoltaics/products/residential/inverters/fronius-primo/fronius-primo-3-8-1-208-240
+Number of MPPT	2
+Recommended PV Power (kWp)	3,0 - 6,0 kWp
+Max. usable input current	18,0 / 18,0 A
+Max. usable input current total (MPPT1 + MPPT2)	36 A
+Max. array short circuit current (1.5 * Imax)	27 / 27 A
+Nominal input voltage	410 V
+Operating voltage range	80 - 600 V
+MPP Voltage Range	200 - 480 V
+Max. input voltage	600 V (1000 V optional*)
+Max input Volatge = 1000 
+Max Voltage for moduel = 227.1 volt
+Max Current for moduel = 2.54 Amp
+Max Number of Series panels = 1000/227.1=4 panels
+4 strings in parlerl three with 4 pannels and 1 with 3 pannels
+Max Voltage InPut= 3*227.1=681.3 volt 
+Max input Current=4*2.54=10.16 A 
+Operating Volatge input=3*163.23=489.7 volt
+Max input Current=4*2.54=10.16 A 
+The Power of the system =4.7 kw
